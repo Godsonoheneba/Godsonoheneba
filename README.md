@@ -1,17 +1,18 @@
 # 👋 Hi, I'm Godson Oheneba Agyei Dacosta
 
-## 👨‍💻 Full Stack Developer | Mobile App Developer | UI/UX Designer | Blockchain Developer
+## 👨‍💻 Full Stack Developer | Mobile App Developer | UI/UX Designer | Blockchain Developer | Data Scientist
 
-A passionate and results-driven Full Stack Developer with 4+ years of experience in developing robust web, mobile, and blockchain applications. Specialized in React Native mobile development, modern web technologies, and creating exceptional user experiences.
+A passionate and results-driven Full Stack Developer with 5+ years of experience in developing robust web, mobile, blockchain applications, and data solutions. Specialized in React Native mobile development, modern web technologies, creating exceptional user experiences, and implementing data-driven solutions.
 
 ### 🎯 Professional Summary
-- 4+ years of experience in full-stack development
+- 5+ years of experience in full-stack development
 - Expert in React Native and cross-platform mobile development
 - Strong background in e-commerce, fintech, and blockchain solutions
+- Proficient in data analysis and machine learning implementations
 - Proven track record of delivering high-quality applications
 - Excellent problem-solving and analytical skills
 - UI/UX design expertise with focus on user-centered design
-+ Experience in Web3 development and smart contracts
+- Experience in Web3 development and smart contracts
 
 ### 🛠️ Tech Stack
 
@@ -113,12 +114,29 @@ A passionate and results-driven Full Stack Developer with 4+ years of experience
 
 #### Data Science Projects
 
+##### Predictive Analytics for E-commerce
+- Developed predictive models for customer behavior analysis
+- Technologies: Python, Scikit-learn, Pandas
+- Implemented in Night Market for personalized recommendations
+- Features: Purchase prediction, customer segmentation
+
 ##### AI-Powered Image Recognition
 - Developed machine learning models for image classification
 - Technologies: Python, TensorFlow, OpenCV
+- Features: Automated tagging, similarity search, content moderation
 - Implemented in Pichastock for smart image tagging
 
 ### 🎓 Education & Certifications
+
+- **MSC Computer Science**
+  - University of Ghana
+  - 2023 - 2024
+
+- **BSc. Information Technology**
+  - Ghana Communication Technology University
+  - 2017 - 2021
+
+
 
 - **ALX Software Engineering Program** (2024)
   - Advanced software engineering principles
