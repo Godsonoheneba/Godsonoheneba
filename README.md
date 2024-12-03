@@ -1,16 +1,17 @@
 # 👋 Hi, I'm Godson Oheneba Agyei Dacosta
 
-## 👨‍💻 Full Stack Developer | Mobile App Developer | UI/UX Designer
+## 👨‍💻 Full Stack Developer | Mobile App Developer | UI/UX Designer | Blockchain Developer
 
-A passionate and results-driven Full Stack Developer with 4+ years of experience in developing robust web and mobile applications. Specialized in React Native mobile development, modern web technologies, and creating exceptional user experiences.
+A passionate and results-driven Full Stack Developer with 4+ years of experience in developing robust web, mobile, and blockchain applications. Specialized in React Native mobile development, modern web technologies, and creating exceptional user experiences.
 
 ### 🎯 Professional Summary
 - 4+ years of experience in full-stack development
 - Expert in React Native and cross-platform mobile development
-- Strong background in e-commerce and fintech solutions
+- Strong background in e-commerce, fintech, and blockchain solutions
 - Proven track record of delivering high-quality applications
 - Excellent problem-solving and analytical skills
 - UI/UX design expertise with focus on user-centered design
++ Experience in Web3 development and smart contracts
 
 ### 🛠️ Tech Stack
 
@@ -42,6 +43,22 @@ A passionate and results-driven Full Stack Developer with 4+ years of experience
   - Jira
   - Trello
   - Slack
+- **Blockchain & Web3:** 
+  - Solidity
+  - Web3.js
+  - Ethers.js
+  - Smart Contracts
+  - DeFi Protocols
+  - Hardhat
+  - Truffle
+- **Data Science & AI:**
+  - Python
+  - TensorFlow
+  - Pandas
+  - NumPy
+  - Scikit-learn
+  - Jupyter Notebook
+  - Data Visualization
 
 ### 🌟 Featured Projects
 
@@ -86,6 +103,21 @@ A passionate and results-driven Full Stack Developer with 4+ years of experience
 - Features: Payment processing, member management
 - [View Project](https://daakyewelfare.com/)
 
+#### Blockchain Projects
+
+##### ZKBlock Protocol (Current)
+- Developing decentralized applications and smart contracts
+- Technologies: Solidity, Web3.js, React
+- Focus on DeFi protocols and zero-knowledge proofs
+- Working on innovative blockchain solutions
+
+#### Data Science Projects
+
+##### AI-Powered Image Recognition
+- Developed machine learning models for image classification
+- Technologies: Python, TensorFlow, OpenCV
+- Implemented in Pichastock for smart image tagging
+
 ### 🎓 Education & Certifications
 
 - **ALX Software Engineering Program** (2024)
@@ -105,7 +137,11 @@ A passionate and results-driven Full Stack Developer with 4+ years of experience
 
 ### 📊 GitHub Stats
 
-![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=Godsonoheneba&show_icons=true&theme=radical)
+![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=Godsonoheneba&show_icons=true&theme=radical&count_private=true&include_all_commits=true)
+
+### 💻 Most Used Languages
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Godsonoheneba&layout=compact&theme=radical)
 
 ### 🌐 Connect with Me
 
